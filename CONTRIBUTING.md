@@ -32,7 +32,7 @@ For data visualization issues:
 - Query results from the inspect drawer (data tab & query inspector)
 - Panel settings can be extracted in the panel inspect drawer JSON tab
 
-For a dashboard related issues:
+For a dashboard related issue:
 
 - Dashboard JSON can be found in the dashboard settings JSON model view
 
